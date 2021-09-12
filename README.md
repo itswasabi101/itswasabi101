@@ -1,5 +1,5 @@
 - 👋 Hi, I’m aaronxo
-- 👀 I’m interested in Coding and learning new things
+- 👀 I’m interested in coding and learning new things
 - 🌱 I’m currently a first year student  
 
 <!---
