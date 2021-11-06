@@ -1,4 +1,4 @@
-- 👋 Hi, I’m aaronxo
+- 👋 Hi, I’m aaron
 - 👀 I’m interested in coding and learning new things
 - 🌱 I’m currently a first year student  
 
